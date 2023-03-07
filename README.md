@@ -9,15 +9,11 @@ Bonus ++ : To automatically unfollow those who don't follow you with the help of
 
 - Clone the base repository:
 ```
-git clone https://github.com/erkamesen/basic-projects.git
-```
-- Navigate to base repository:
-```
-- cd basic-projects
+git clone https://github.com/erkamesen/NonFollowers-GitHub.git
 ```
 - Navigate to project:
 ```
-cd NonFollowers\(GitHub\)\ -\ Py/
+cd NonFollowers-GitHub
 ```
 - install the requirements:
 ```
